@@ -1,5 +1,5 @@
 extends: airbnb-base
 rules:
   no-use-before-define: ["error", { functions: false, classes: true }]
-  arrow-parens: 0,
-  comma-dangle: 0,
+  arrow-parens: 0
+  comma-dangle: 0
